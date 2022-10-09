@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid a40c3db5-c623-456e-9303-1cc0856450ed)
+
+  (paper "A4")
+
+  (title_block
+    (title "Micromouse schématic")
+    (date "2022-10-08")
+    (rev "1")
+    (company "RobotiCS")
+  )
+
+  (lib_symbols
+  )
+
+)
