@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model TEN_5-0510
+#/1446954/968744/2.49/7/2/Power Supply
+DEF TEN_5-0510 PS 0 30 Y Y 1 F N
+F0 "PS" 1750 300 50 H V L CNN
+F1 "TEN_5-0510" 1750 200 50 H V L CNN
+F2 "TEN50510" 1750 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/TEN 5-0510.pdf" 1750 0 50 H I L CNN
+F4 "5 Watt DC/DC converter, industrial, 2:1 input, encapsulated, DIP-24" 1750 -100 50 H I L CNN "Description"
+F5 "10.45" 1750 -200 50 H I L CNN "Height"
+F6 "495-TEN5-0510" 1750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.com/Search/Refine.aspx?Keyword=495-TEN5-0510" 1750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Traco Power" 1750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "TEN 5-0510" 1750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X -VIN_(GND)_1 2 0 0 200 R 50 50 0 0 P
+X -VIN_(GND)_2 3 0 -100 200 R 50 50 0 0 P
+X NO_CON. 11 0 -200 200 R 50 50 0 0 P
+X +VOUT 14 1900 -300 200 L 50 50 0 0 P
+X -VOUT 16 1900 -200 200 L 50 50 0 0 P
+X +VIN_(VCC) 22 1900 -100 200 L 50 50 0 0 P
+X +VIN_(VCC 23 1900 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1700 100 1700 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
