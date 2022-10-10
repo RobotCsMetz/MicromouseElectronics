@@ -1,3 +1,8 @@
 (fp_lib_table
-  (lib (name "DRV8321")(type "KiCad")(uri "${KIPRJMOD}/library/DRV8321/footprints.pretty")(options "")(descr ""))
+  (lib (name "DRV8231ADSGR")(type "Legacy")(uri "${KIPRJMOD}/mod/DRV8231ADSGR.mod")(options "")(descr ""))
+  (lib (name "ESE-20C343")(type "Legacy")(uri "${KIPRJMOD}/mod/ESE-20C343.mod")(options "")(descr ""))
+  (lib (name "ICM-42688-V")(type "Legacy")(uri "${KIPRJMOD}/mod/ICM-42688-V.mod")(options "")(descr ""))
+  (lib (name "TEN_5-0510")(type "Legacy")(uri "${KIPRJMOD}/mod/TEN_5-0510.mod")(options "")(descr ""))
+  (lib (name "TPS7A0333PYCHR")(type "Legacy")(uri "${KIPRJMOD}/mod/TPS7A0333PYCHR.mod")(options "")(descr ""))
+  (lib (name "MAX20077ATCA")(type "KiCad")(uri "${KIPRJMOD}/mod/MAX20077ATCA.pretty")(options "")(descr ""))
 )
