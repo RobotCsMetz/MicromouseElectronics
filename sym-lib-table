@@ -1,3 +1,6 @@
 (sym_lib_table
   (lib (name "DRV8231ADSGR")(type "Legacy")(uri "${KIPRJMOD}/lib/DRV8231ADSGR.lib")(options "")(descr ""))
+  (lib (name "TEFT4300")(type "Legacy")(uri "${KIPRJMOD}/lib/TEFT4300.lib")(options "")(descr ""))
+  (lib (name "ICM-42688-V")(type "Legacy")(uri "${KIPRJMOD}/lib/ICM-42688-V.lib")(options "")(descr ""))
+  (lib (name "SFH_4550")(type "Legacy")(uri "${KIPRJMOD}/lib/SFH_4550.lib")(options "")(descr ""))
 )
