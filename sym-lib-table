@@ -1,3 +1,7 @@
 (sym_lib_table
   (lib (name "DRV8231ADSGR")(type "Legacy")(uri "${KIPRJMOD}/lib/DRV8231ADSGR.lib")(options "")(descr ""))
+  (lib (name "ESE-20C343")(type "Legacy")(uri "${KIPRJMOD}/lib/ESE-20C343.lib")(options "")(descr ""))
+  (lib (name "TPS7A0318PYCHR")(type "Legacy")(uri "${KIPRJMOD}/lib/TPS7A0318PYCHR.lib")(options "")(descr ""))
+  (lib (name "TPS7A0333PYCHR")(type "Legacy")(uri "${KIPRJMOD}/lib/TPS7A0333PYCHR.lib")(options "")(descr ""))
+  (lib (name "MAX20077ATCA-VY")(type "Legacy")(uri "${KIPRJMOD}/lib/MAX20077ATCA-VY.lib")(options "")(descr ""))
 )
