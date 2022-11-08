@@ -4,4 +4,7 @@
   (lib (name "TPS7A0318PYCHR")(type "Legacy")(uri "${KIPRJMOD}/lib/TPS7A0318PYCHR.lib")(options "")(descr ""))
   (lib (name "TPS7A0333PYCHR")(type "Legacy")(uri "${KIPRJMOD}/lib/TPS7A0333PYCHR.lib")(options "")(descr ""))
   (lib (name "MAX20077ATCA-VY")(type "Legacy")(uri "${KIPRJMOD}/lib/MAX20077ATCA-VY.lib")(options "")(descr ""))
+  (lib (name "TEFT4300")(type "Legacy")(uri "${KIPRJMOD}/lib/TEFT4300.lib")(options "")(descr ""))
+  (lib (name "ICM-42688-V")(type "Legacy")(uri "${KIPRJMOD}/lib/ICM-42688-V.lib")(options "")(descr ""))
+  (lib (name "SFH_4550")(type "Legacy")(uri "${KIPRJMOD}/lib/SFH_4550.lib")(options "")(descr ""))
 )
