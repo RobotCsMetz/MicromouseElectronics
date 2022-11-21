@@ -1,0 +1,2177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/drblackapple/Documents/Cours CS/Asso Robotique /MicromouseElectronics/micromouse.kicad_sch</source>
+    <date>mar. 15 nov. 2022 00:32:17</date>
+    <tool>Eeschema 6.0.9-8da3e8f707~116~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Micromouse schématic</title>
+        <company>RobotiCS</company>
+        <rev>1</rev>
+        <date>2022-10-08</date>
+        <source>micromouse.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>4,7µF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d8918c8-7e4c-4582-b4a4-ba51a8b9f598</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0,1µF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a10638b4-1389-454b-89c5-adf81cc9b97e</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1 uF</value>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1947866d-7031-4c06-b8c0-291fe00b5463</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1 uF</value>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77122f1a-ace8-4745-ba02-934a9e42ab1d</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1 uF</value>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eed6bd52-f164-47b5-bf9d-26365fe72e8a</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1 uF</value>
+      <libsource lib="pspice" part="C" description="Capacitor symbol for simulation only"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1b8c89d-3638-4731-a03b-489fec976281</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4,7µF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0a00bf8-792b-4fdd-84b3-dda3a8e9884f</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>30µF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8a570580-677a-436f-803e-4218cd610ceb</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9c08f60-f4b8-471c-9e8a-b0399b30f3e4</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e07fafbe-9232-4576-aafc-9e56b5f056e7</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>eae938e1-13ac-4bc0-b3c9-e1dd2f7d1851</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c027d219-f215-4528-9ad6-894f5c10a046</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e5d5c74-d9c8-41c1-9622-d8810602c8d2</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d970c207-fd9d-43d0-a0da-7b291043cee8</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2afa9e1d-d476-472f-9534-b1e68be4a1cf</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>496dd6e9-e5bc-40df-923e-1af55e8595f6</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8c245ef3-615f-485d-a546-0e2a20be0247</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>10nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da29bb58-a93b-4f61-9b6d-bcf619cdbb4a</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1µF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5680d559-cdf0-44b8-a754-df66011376e8</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>4,7µF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a69f8d3c-93de-4f33-a192-d3f777f6225b</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e92010a-be0b-4cfc-b8c3-9b9be822a882</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100nF</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>39fafb0a-938b-4553-8592-0e0d6a54cf6f</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>4,7u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>800317fc-8477-423e-a5f5-66482f7c176c</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e424eb64-f52c-4664-b7a1-c0bd615a7512</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d331a552-49ae-4c83-a61a-bccc2cb83f9b</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>4,7u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d23feac-de09-4ce2-9644-0d08b7b45336</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9eef41ee-e7f3-4385-9df0-55842c4a39f8</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>100u</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c3bce9e-fde5-4704-9831-3c38e45fe80d</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a7ec04c1-9472-417e-98aa-8b0ea53bfda8</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79ebbbf7-68c3-4971-8b56-fddee16ae27e</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6333b561-8f9c-4caa-adab-7c755e59f78c</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb4bb088-f7fb-4a2f-977d-281f6acb710e</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>4,7u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>75f0ed45-c7f8-4dd9-bd67-742c8b7879da</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb3ee5b5-99c3-4423-85b8-0d1f415f6e59</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7afc7a8-80ab-4bab-b675-d9948a5f3027</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>4,7u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0fc75d40-a7c9-454e-9888-28f9f3c6e9ee</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f27a36b6-af79-4bef-b616-13dbfe08b7e1</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>4,7u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9e6cc248-6449-4eea-a4df-79185b44aed1</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>0.1u</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a535efc-a191-410c-8744-40e4cd048698</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>100u</value>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>742da537-b150-4f79-bfbc-18f68f0d9cc9</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8116e314-ed29-4cda-8844-2ca482d0cff8</tstamps>
+    </comp>
+    <comp ref="C42">
+      <value>100n</value>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3680c321-bc83-41aa-913d-0c04b02fba97</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>5v to 3.3v</value>
+      <footprint>TPS7A0333PYCHR:BGA4C35P2X2_64X64X40</footprint>
+      <datasheet>https://www.ti.com/lit/gpn/tps7a03?HQS=ti-null-null-sf-df-pf-sep-wwe&amp;DCM=yes</datasheet>
+      <fields>
+        <field name="Description">LDO Voltage Regulators 200-mA, nanopower-IQ (200 nA), low-dropout (LDO) voltage regulator with enable 4-DSBGA -40 to 125</field>
+        <field name="Height">0.4</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS7A0333PYCHR</field>
+        <field name="Mouser Part Number">595-TPS7A0333PYCHR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A0333PYCHR?qs=DRkmTr78QASt%252BMCkG4QYQg%3D%3D</field>
+      </fields>
+      <libsource lib="TPS7A0333PYCHR" part="TPS7A0333PYCHR" description=""/>
+      <property name="Description" value="LDO Voltage Regulators 200-mA, nanopower-IQ (200 nA), low-dropout (LDO) voltage regulator with enable 4-DSBGA -40 to 125"/>
+      <property name="Height" value="0.4"/>
+      <property name="Mouser Part Number" value="595-TPS7A0333PYCHR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A0333PYCHR?qs=DRkmTr78QASt%252BMCkG4QYQg%3D%3D"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="TPS7A0333PYCHR"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b6f31c5-1c7b-4291-a27c-c31df740ec87</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>connecteur batterie</value>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d461259-61df-4e17-9a78-2947b9465db6</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>IDC MALE</value>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>446c6c10-03f0-473b-8579-460996d54496</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>IDC MALE</value>
+      <libsource lib="Connector_Generic" part="Conn_02x03_Odd_Even" description="Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4fd4e84a-1695-43b7-9bc1-19d413bfde41</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>2.2µH</value>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8a6a694-f5ad-4e97-9102-7dad9d719698</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>SFH_4550</value>
+      <footprint>SFH4550</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036919.pdf</datasheet>
+      <fields>
+        <field name="Description">Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG</field>
+        <field name="Height">9</field>
+        <field name="Manufacturer_Name">OSRAM</field>
+        <field name="Manufacturer_Part_Number">SFH 4550</field>
+        <field name="Mouser Part Number">720-SFH4550</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D</field>
+      </fields>
+      <libsource lib="SFH_4550" part="SFH_4550" description=""/>
+      <property name="Description" value="Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG"/>
+      <property name="Height" value="9"/>
+      <property name="Mouser Part Number" value="720-SFH4550"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D"/>
+      <property name="Manufacturer_Name" value="OSRAM"/>
+      <property name="Manufacturer_Part_Number" value="SFH 4550"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f88a6e68-034e-49e4-911d-84175edf47ad</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>SFH_4550</value>
+      <footprint>SFH4550</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036919.pdf</datasheet>
+      <fields>
+        <field name="Description">Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG</field>
+        <field name="Height">9</field>
+        <field name="Manufacturer_Name">OSRAM</field>
+        <field name="Manufacturer_Part_Number">SFH 4550</field>
+        <field name="Mouser Part Number">720-SFH4550</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D</field>
+      </fields>
+      <libsource lib="SFH_4550" part="SFH_4550" description=""/>
+      <property name="Description" value="Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG"/>
+      <property name="Height" value="9"/>
+      <property name="Mouser Part Number" value="720-SFH4550"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D"/>
+      <property name="Manufacturer_Name" value="OSRAM"/>
+      <property name="Manufacturer_Part_Number" value="SFH 4550"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0caea1d-83f0-4fe5-b24f-3514a4708a0d</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>SFH_4550</value>
+      <footprint>SFH4550</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036919.pdf</datasheet>
+      <fields>
+        <field name="Description">Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG</field>
+        <field name="Height">9</field>
+        <field name="Manufacturer_Name">OSRAM</field>
+        <field name="Manufacturer_Part_Number">SFH 4550</field>
+        <field name="Mouser Part Number">720-SFH4550</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D</field>
+      </fields>
+      <libsource lib="SFH_4550" part="SFH_4550" description=""/>
+      <property name="Description" value="Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG"/>
+      <property name="Height" value="9"/>
+      <property name="Mouser Part Number" value="720-SFH4550"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D"/>
+      <property name="Manufacturer_Name" value="OSRAM"/>
+      <property name="Manufacturer_Part_Number" value="SFH 4550"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8687d5d-97a5-404d-ba0d-a59ea63ce966</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>SFH_4550</value>
+      <footprint>SFH4550</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036919.pdf</datasheet>
+      <fields>
+        <field name="Description">Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG</field>
+        <field name="Height">9</field>
+        <field name="Manufacturer_Name">OSRAM</field>
+        <field name="Manufacturer_Part_Number">SFH 4550</field>
+        <field name="Mouser Part Number">720-SFH4550</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D</field>
+      </fields>
+      <libsource lib="SFH_4550" part="SFH_4550" description=""/>
+      <property name="Description" value="Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG"/>
+      <property name="Height" value="9"/>
+      <property name="Mouser Part Number" value="720-SFH4550"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D"/>
+      <property name="Manufacturer_Name" value="OSRAM"/>
+      <property name="Manufacturer_Part_Number" value="SFH 4550"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6dcb9dd3-baf1-44aa-bdd4-d73cc9c5e425</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>SFH_4550</value>
+      <footprint>SFH4550</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036919.pdf</datasheet>
+      <fields>
+        <field name="Description">Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG</field>
+        <field name="Height">9</field>
+        <field name="Manufacturer_Name">OSRAM</field>
+        <field name="Manufacturer_Part_Number">SFH 4550</field>
+        <field name="Mouser Part Number">720-SFH4550</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D</field>
+      </fields>
+      <libsource lib="SFH_4550" part="SFH_4550" description=""/>
+      <property name="Description" value="Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG"/>
+      <property name="Height" value="9"/>
+      <property name="Mouser Part Number" value="720-SFH4550"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D"/>
+      <property name="Manufacturer_Name" value="OSRAM"/>
+      <property name="Manufacturer_Part_Number" value="SFH 4550"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e15e60e5-9fa1-4448-9f11-dc355fb04baa</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>Q_NMOS_DGS</value>
+      <libsource lib="Device" part="Q_NMOS_DGS" description="N-MOSFET transistor, drain/gate/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41fb1853-53c9-4b52-9708-155d3090b465</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>Q_NMOS_DGS</value>
+      <libsource lib="Device" part="Q_NMOS_DGS" description="N-MOSFET transistor, drain/gate/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3cc34c9-b5d9-4c2e-8e0b-d959fd18dfd5</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>TEFT4300</value>
+      <footprint>TEFT4300</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf</datasheet>
+      <fields>
+        <field name="Description">Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TEFT4300</field>
+        <field name="Mouser Part Number">782-TEFT4300</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D</field>
+      </fields>
+      <libsource lib="TEFT4300" part="TEFT4300" description=""/>
+      <property name="Description" value="Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="782-TEFT4300"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="TEFT4300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2717eb84-f586-4b86-902e-b769ad07638d</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>TEFT4300</value>
+      <footprint>TEFT4300</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf</datasheet>
+      <fields>
+        <field name="Description">Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TEFT4300</field>
+        <field name="Mouser Part Number">782-TEFT4300</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D</field>
+      </fields>
+      <libsource lib="TEFT4300" part="TEFT4300" description=""/>
+      <property name="Description" value="Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="782-TEFT4300"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="TEFT4300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>309a92e0-3afd-4853-8cb6-df09b04242ad</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>Q_NMOS_DGS</value>
+      <libsource lib="Device" part="Q_NMOS_DGS" description="N-MOSFET transistor, drain/gate/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>34a177a1-c5f9-45fd-81fe-7d3620417271</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>TEFT4300</value>
+      <footprint>TEFT4300</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf</datasheet>
+      <fields>
+        <field name="Description">Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TEFT4300</field>
+        <field name="Mouser Part Number">782-TEFT4300</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D</field>
+      </fields>
+      <libsource lib="TEFT4300" part="TEFT4300" description=""/>
+      <property name="Description" value="Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="782-TEFT4300"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="TEFT4300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17048bcf-366f-4d81-a9b7-ce375b9f8a6e</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>Q_NMOS_DGS</value>
+      <libsource lib="Device" part="Q_NMOS_DGS" description="N-MOSFET transistor, drain/gate/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f948a41-caa1-45c2-8f04-b38f8801e0ce</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>TEFT4300</value>
+      <footprint>TEFT4300</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf</datasheet>
+      <fields>
+        <field name="Description">Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package</field>
+        <field name="Height">6.1</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TEFT4300</field>
+        <field name="Mouser Part Number">782-TEFT4300</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D</field>
+      </fields>
+      <libsource lib="TEFT4300" part="TEFT4300" description=""/>
+      <property name="Description" value="Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package"/>
+      <property name="Height" value="6.1"/>
+      <property name="Mouser Part Number" value="782-TEFT4300"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="TEFT4300"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ea0dd6b-77af-495e-aba3-2bd227b5c410</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>Q_NMOS_DGS</value>
+      <libsource lib="Device" part="Q_NMOS_DGS" description="N-MOSFET transistor, drain/gate/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0a97c7b6-68ed-4960-9a9c-f3199f30a3d2</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>50kΩ</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df720e4e-e50f-4718-b570-2b2bc9f18df8</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10kΩ</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea6fbdba-6ec2-41de-84c6-fbc6a7173c94</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35374336-1d64-48d8-99f7-d5ba2613e6a1</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>0.56</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb65d5a1-b4c3-48f6-b87e-5e27c68402ac</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32e5d588-a0ec-44f4-9eae-7955092d422c</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>50k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>18f41796-2dc1-41a1-9e79-e47155ee76a4</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8879981d-95c6-4ef6-b3e4-eb95b02f2dd2</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1k8</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f54d622-d905-4edf-b792-0b74d321c480</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>0.56</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e1d15dd-6920-4298-b024-fd68de7b6637</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>276e7bf9-ef0c-4519-8dd8-398978bffdad</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>1k8</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fad49348-08b1-445a-bbb5-5ad7d9abb42d</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>0.56</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2e085ea-e6af-4319-a869-61bb57c0eae3</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ec519a2-0a87-4429-94ea-f3b90ac38f5c</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>50k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>40fa25d1-5f78-4107-94ff-3fbb3952c461</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fc5d3716-13cd-4da4-860a-1d28d2ef2f00</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5f13ef7-4a10-40ac-8c7a-b316a36dcdda</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>1k8</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e41d3b14-68d7-4b6c-85f1-bb168810e956</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>0.56</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e7e71d9e-f45e-4346-b16a-d501658671fe</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1k8</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf5f5d87-b805-4fbf-8c8d-b79251c057fe</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35090ce9-2fed-4b05-9e45-4be6b50ff440</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>0.56</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36478ca9-cc72-466b-86bb-a5d9717670d2</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>1k</value>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bdfc6b3-5eed-4889-8de4-70e32d8c4503</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>Switch</value>
+      <footprint>ESE-20C343:ESE20C343</footprint>
+      <datasheet>https://www.arrow.com/en/products/ese-20c343/panasonic</datasheet>
+      <fields>
+        <field name="Description">Pushbutton Switches Push Switch Mom SPST Leaded 8.9m</field>
+        <field name="Height">12.5</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ESE-20C343</field>
+        <field name="Mouser Part Number">667-ESE-20C343</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ESE-20C343?qs=WwqriLBepZuWOWJOBTO27g%3D%3D</field>
+      </fields>
+      <libsource lib="ESE-20C343" part="ESE-20C343" description=""/>
+      <property name="Description" value="Pushbutton Switches Push Switch Mom SPST Leaded 8.9m"/>
+      <property name="Height" value="12.5"/>
+      <property name="Mouser Part Number" value="667-ESE-20C343"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Panasonic/ESE-20C343?qs=WwqriLBepZuWOWJOBTO27g%3D%3D"/>
+      <property name="Manufacturer_Name" value="Panasonic"/>
+      <property name="Manufacturer_Part_Number" value="ESE-20C343"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c109b5a9-2f65-430c-9726-8b8cf51fd33b</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>MAX20077ATCA/VY+</value>
+      <libsource lib="MAX20077ATCA-VY" part="MAX20077ATCA{slash}VY+" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3fe0399b-e9e4-4245-b36a-8710099d1bbe</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>3.3v to 1.8v</value>
+      <libsource lib="TPS7A0318PYCHR" part="TPS7A0318PYCHR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4de3db23-4d25-4f64-bab0-6d26aa35a2bb</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>STM32L4R9AIIx</value>
+      <footprint>Package_BGA:UFBGA-169_7x7mm_Layout13x13_P0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf</datasheet>
+      <libsource lib="MCU_ST_STM32L4+" part="STM32L4R9AIIx" description="ARM Cortex-M4 MCU, 2048KB flash, 640KB RAM, 120MHz, 1.71-3.6V, 131 GPIO, UFBGA-169"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a92eab16-efb3-415c-afd9-db1df5f90789</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>DRV8231DSGR</value>
+      <footprint>Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm</footprint>
+      <libsource lib="DRV8321" part="DRV8231DSGR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a533db30-c43b-4599-9158-e809feb53a71</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>DRV8231DSGR</value>
+      <footprint>Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm</footprint>
+      <libsource lib="DRV8321" part="DRV8231DSGR" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="micromouse.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dfcdc618-efbc-44db-80d0-a36155585078</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x03_Odd_Even">
+      <description>Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x03_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="DRV8321" part="DRV8231DSGR">
+      <footprints>
+        <fp>WSON8_DRV8231_TEX</fp>
+        <fp>WSON8_DRV8231_TEX-M</fp>
+        <fp>WSON8_DRV8231_TEX-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DRV8231DSGR</field>
+        <field name="Footprint">WSON8_DRV8231_TEX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="IN2" type="input"/>
+        <pin num="3" name="IN1" type="input"/>
+        <pin num="4" name="VREF" type="power_in"/>
+        <pin num="5" name="VM" type="power_in"/>
+        <pin num="6" name="OUT1" type="output"/>
+        <pin num="7" name="ISEN" type="power_in"/>
+        <pin num="8" name="OUT2" type="output"/>
+        <pin num="9" name="EPAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_DGS">
+      <description>N-MOSFET transistor, drain/gate/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_DGS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="ESE-20C343" part="ESE-20C343">
+      <docs>https://www.arrow.com/en/products/ese-20c343/panasonic</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">ESE-20C343</field>
+        <field name="Footprint">ESE20C343</field>
+        <field name="Datasheet">https://www.arrow.com/en/products/ese-20c343/panasonic</field>
+        <field name="Description">Pushbutton Switches Push Switch Mom SPST Leaded 8.9m</field>
+        <field name="Height">12.5</field>
+        <field name="Mouser Part Number">667-ESE-20C343</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Panasonic/ESE-20C343?qs=WwqriLBepZuWOWJOBTO27g%3D%3D</field>
+        <field name="Manufacturer_Name">Panasonic</field>
+        <field name="Manufacturer_Part_Number">ESE-20C343</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="COM_1" type="passive"/>
+        <pin num="B1" name="NO_1" type="passive"/>
+        <pin num="C1" name="COM_2" type="passive"/>
+        <pin num="D1" name="NO_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MAX20077ATCA-VY" part="MAX20077ATCA{slash}VY+">
+      <footprints>
+        <fp>21-100176B_TD1233Y+2C_MXM</fp>
+        <fp>21-100176B_TD1233Y+2C_MXM-M</fp>
+        <fp>21-100176B_TD1233Y+2C_MXM-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">MAX20077ATCA/VY+</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SPS" type="free"/>
+        <pin num="2" name="EN" type="input"/>
+        <pin num="3" name="BST" type="output"/>
+        <pin num="4" name="SUP" type="power_in"/>
+        <pin num="5" name="LX" type="output"/>
+        <pin num="6" name="PGND" type="power_in"/>
+        <pin num="7" name="AGND" type="power_in"/>
+        <pin num="8" name="FB" type="output"/>
+        <pin num="9" name="OUT" type="power_out"/>
+        <pin num="10" name="BIAS" type="bidirectional"/>
+        <pin num="11" name="SYNC" type="input"/>
+        <pin num="12" name="PGOOD" type="output"/>
+        <pin num="13" name="EPAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32L4+" part="STM32L4R9AIIx">
+      <description>ARM Cortex-M4 MCU, 2048KB flash, 640KB RAM, 120MHz, 1.71-3.6V, 131 GPIO, UFBGA-169</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf</docs>
+      <footprints>
+        <fp>UFBGA*7x7mm*Layout13x13*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32L4R9AIIx</field>
+        <field name="Footprint">Package_BGA:UFBGA-169_7x7mm_Layout13x13_P0.5mm</field>
+        <field name="Datasheet">http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00366448.pdf</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="PI10" type="bidirectional"/>
+        <pin num="A2" name="PH2" type="bidirectional"/>
+        <pin num="A3" name="VDD" type="power_in"/>
+        <pin num="A4" name="PE0" type="bidirectional"/>
+        <pin num="A5" name="PB4" type="bidirectional"/>
+        <pin num="A6" name="PB3" type="bidirectional"/>
+        <pin num="A7" name="VSS" type="power_in"/>
+        <pin num="A8" name="VDD" type="power_in"/>
+        <pin num="A9" name="PA15" type="bidirectional"/>
+        <pin num="A10" name="PA14" type="bidirectional"/>
+        <pin num="A11" name="PA13" type="bidirectional"/>
+        <pin num="A12" name="PI0" type="bidirectional"/>
+        <pin num="A13" name="PH14" type="bidirectional"/>
+        <pin num="B1" name="PI9" type="bidirectional"/>
+        <pin num="B2" name="PI7" type="bidirectional"/>
+        <pin num="B3" name="VSS" type="power_in"/>
+        <pin num="B4" name="PE1" type="bidirectional"/>
+        <pin num="B5" name="PB5" type="bidirectional"/>
+        <pin num="B6" name="VDDIO2" type="power_in"/>
+        <pin num="B7" name="PG9" type="bidirectional"/>
+        <pin num="B8" name="PD0" type="bidirectional"/>
+        <pin num="B9" name="PI6" type="bidirectional"/>
+        <pin num="B10" name="PI2" type="bidirectional"/>
+        <pin num="B11" name="PI1" type="bidirectional"/>
+        <pin num="B12" name="PH15" type="bidirectional"/>
+        <pin num="B13" name="PH12" type="bidirectional"/>
+        <pin num="C1" name="VDD" type="power_in"/>
+        <pin num="C2" name="VSS" type="power_in"/>
+        <pin num="C3" name="PI11" type="bidirectional"/>
+        <pin num="C4" name="PB8" type="bidirectional"/>
+        <pin num="C5" name="PB6" type="bidirectional"/>
+        <pin num="C6" name="PG15" type="bidirectional"/>
+        <pin num="C7" name="PD4" type="bidirectional"/>
+        <pin num="C8" name="PD1" type="bidirectional"/>
+        <pin num="C9" name="PH13" type="bidirectional"/>
+        <pin num="C10" name="PI3" type="bidirectional"/>
+        <pin num="C11" name="PH9" type="bidirectional"/>
+        <pin num="C12" name="VSS" type="power_in"/>
+        <pin num="C13" name="VDD" type="power_in"/>
+        <pin num="D1" name="PE4" type="bidirectional"/>
+        <pin num="D2" name="PE3" type="bidirectional"/>
+        <pin num="D3" name="PE2" type="bidirectional"/>
+        <pin num="D4" name="PB9" type="bidirectional"/>
+        <pin num="D5" name="PB7" type="bidirectional"/>
+        <pin num="D6" name="PG10" type="bidirectional"/>
+        <pin num="D7" name="PD5" type="bidirectional"/>
+        <pin num="D8" name="PD2" type="bidirectional"/>
+        <pin num="D9" name="PC10" type="bidirectional"/>
+        <pin num="D10" name="PI4" type="bidirectional"/>
+        <pin num="D11" name="PA10" type="bidirectional"/>
+        <pin num="D12" name="VDDUSB" type="power_in"/>
+        <pin num="D13" name="PA12" type="bidirectional"/>
+        <pin num="E1" name="PC13" type="bidirectional"/>
+        <pin num="E2" name="VBAT" type="power_in"/>
+        <pin num="E3" name="PE6" type="bidirectional"/>
+        <pin num="E4" name="PE5" type="bidirectional"/>
+        <pin num="E5" name="PH3" type="bidirectional"/>
+        <pin num="E6" name="PG11" type="bidirectional"/>
+        <pin num="E7" name="PD6" type="bidirectional"/>
+        <pin num="E8" name="PD3" type="bidirectional"/>
+        <pin num="E9" name="PC11" type="bidirectional"/>
+        <pin num="E10" name="PI5" type="bidirectional"/>
+        <pin num="E11" name="PA8" type="bidirectional"/>
+        <pin num="E12" name="PA9" type="bidirectional"/>
+        <pin num="E13" name="PA11" type="bidirectional"/>
+        <pin num="F1" name="PC14" type="bidirectional"/>
+        <pin num="F2" name="VSS" type="power_in"/>
+        <pin num="F3" name="PF2" type="bidirectional"/>
+        <pin num="F4" name="PF1" type="bidirectional"/>
+        <pin num="F5" name="PF0" type="bidirectional"/>
+        <pin num="F6" name="PG12" type="bidirectional"/>
+        <pin num="F7" name="PD7" type="bidirectional"/>
+        <pin num="F8" name="PC12" type="bidirectional"/>
+        <pin num="F9" name="PC8" type="bidirectional"/>
+        <pin num="F10" name="PG8" type="bidirectional"/>
+        <pin num="F11" name="PC6" type="bidirectional"/>
+        <pin num="F12" name="VDDIO2" type="power_in"/>
+        <pin num="F13" name="VSS" type="power_in"/>
+        <pin num="G1" name="PC15" type="bidirectional"/>
+        <pin num="G2" name="VDD" type="power_in"/>
+        <pin num="G3" name="PF3" type="bidirectional"/>
+        <pin num="G4" name="PF4" type="bidirectional"/>
+        <pin num="G5" name="PF5" type="bidirectional"/>
+        <pin num="G6" name="PG13" type="bidirectional"/>
+        <pin num="G7" name="PG4" type="bidirectional"/>
+        <pin num="G8" name="PG3" type="bidirectional"/>
+        <pin num="G9" name="PG5" type="bidirectional"/>
+        <pin num="G10" name="PG7" type="bidirectional"/>
+        <pin num="G11" name="PC7" type="bidirectional"/>
+        <pin num="G12" name="PG6" type="bidirectional"/>
+        <pin num="G13" name="PC9" type="bidirectional"/>
+        <pin num="H1" name="PH0" type="input"/>
+        <pin num="H2" name="VSS" type="power_in"/>
+        <pin num="H3" name="NRST" type="input"/>
+        <pin num="H4" name="PF10" type="bidirectional"/>
+        <pin num="H5" name="PG1" type="bidirectional"/>
+        <pin num="H6" name="PE10" type="bidirectional"/>
+        <pin num="H7" name="PB11" type="bidirectional"/>
+        <pin num="H8" name="PD13" type="bidirectional"/>
+        <pin num="H9" name="PG2" type="bidirectional"/>
+        <pin num="H10" name="PD15" type="bidirectional"/>
+        <pin num="H11" name="PD14" type="bidirectional"/>
+        <pin num="H12" name="VSS" type="power_in"/>
+        <pin num="H13" name="VDD" type="power_in"/>
+        <pin num="J1" name="PH1" type="input"/>
+        <pin num="J2" name="PC0" type="bidirectional"/>
+        <pin num="J3" name="PC1" type="bidirectional"/>
+        <pin num="J4" name="PC2" type="bidirectional"/>
+        <pin num="J5" name="PG0" type="bidirectional"/>
+        <pin num="J6" name="PE9" type="bidirectional"/>
+        <pin num="J7" name="PE15" type="bidirectional"/>
+        <pin num="J8" name="PD12" type="bidirectional"/>
+        <pin num="J9" name="PD11" type="bidirectional"/>
+        <pin num="J10" name="PD10" type="bidirectional"/>
+        <pin num="J11" name="DSIHOST_D1P" type="bidirectional"/>
+        <pin num="J12" name="DSIHOST_D1N" type="bidirectional"/>
+        <pin num="J13" name="VSSDSI" type="power_in"/>
+        <pin num="K1" name="PC3" type="bidirectional"/>
+        <pin num="K2" name="VSSA" type="power_in"/>
+        <pin num="K3" name="PA0" type="bidirectional"/>
+        <pin num="K4" name="PC4" type="bidirectional"/>
+        <pin num="K5" name="PF15" type="bidirectional"/>
+        <pin num="K6" name="PE8" type="bidirectional"/>
+        <pin num="K7" name="PE14" type="bidirectional"/>
+        <pin num="K8" name="PH4" type="bidirectional"/>
+        <pin num="K9" name="PD9" type="bidirectional"/>
+        <pin num="K10" name="PD8" type="bidirectional"/>
+        <pin num="K11" name="DSIHOST_CKP" type="bidirectional"/>
+        <pin num="K12" name="DSIHOST_CKN" type="bidirectional"/>
+        <pin num="K13" name="VSSDSI" type="power_in"/>
+        <pin num="L1" name="VREF+" type="bidirectional"/>
+        <pin num="L2" name="VDDA" type="power_in"/>
+        <pin num="L3" name="PA5" type="bidirectional"/>
+        <pin num="L4" name="PA6" type="bidirectional"/>
+        <pin num="L5" name="PB1" type="bidirectional"/>
+        <pin num="L6" name="PF14" type="bidirectional"/>
+        <pin num="L7" name="PE7" type="bidirectional"/>
+        <pin num="L8" name="PE13" type="bidirectional"/>
+        <pin num="L9" name="PH5" type="bidirectional"/>
+        <pin num="L10" name="PB15" type="bidirectional"/>
+        <pin num="L11" name="DSIHOST_D0P" type="bidirectional"/>
+        <pin num="L12" name="DSIHOST_D0N" type="bidirectional"/>
+        <pin num="L13" name="VCAPDSI" type="power_in"/>
+        <pin num="M1" name="PA1" type="bidirectional"/>
+        <pin num="M2" name="PA3" type="bidirectional"/>
+        <pin num="M3" name="VSS" type="power_in"/>
+        <pin num="M4" name="PA7" type="bidirectional"/>
+        <pin num="M5" name="PF11" type="bidirectional"/>
+        <pin num="M6" name="PF13" type="bidirectional"/>
+        <pin num="M7" name="VSS" type="power_in"/>
+        <pin num="M8" name="PE12" type="bidirectional"/>
+        <pin num="M9" name="PH10" type="bidirectional"/>
+        <pin num="M10" name="PH11" type="bidirectional"/>
+        <pin num="M11" name="VSS" type="power_in"/>
+        <pin num="M12" name="PB14" type="bidirectional"/>
+        <pin num="M13" name="VDDDSI" type="power_in"/>
+        <pin num="N1" name="PA2" type="bidirectional"/>
+        <pin num="N2" name="PA4" type="bidirectional"/>
+        <pin num="N3" name="VDD" type="power_in"/>
+        <pin num="N4" name="PB0" type="bidirectional"/>
+        <pin num="N5" name="PB2" type="bidirectional"/>
+        <pin num="N6" name="PF12" type="bidirectional"/>
+        <pin num="N7" name="VDD" type="power_in"/>
+        <pin num="N8" name="PE11" type="bidirectional"/>
+        <pin num="N9" name="PB10" type="bidirectional"/>
+        <pin num="N10" name="PH8" type="bidirectional"/>
+        <pin num="N11" name="VDD" type="power_in"/>
+        <pin num="N12" name="PB12" type="bidirectional"/>
+        <pin num="N13" name="PB13" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="SFH_4550" part="SFH_4550">
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036919.pdf</docs>
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">SFH_4550</field>
+        <field name="Footprint">SFH4550</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036919.pdf</field>
+        <field name="Description">Infrared Emitters - High Power Infrared 850 nm HALF ANGLE +/-3DEG</field>
+        <field name="Height">9</field>
+        <field name="Mouser Part Number">720-SFH4550</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/SFH-4550?qs=K5ta8V%252BWhtavCsf0k%2FOizw%3D%3D</field>
+        <field name="Manufacturer_Name">OSRAM</field>
+        <field name="Manufacturer_Part_Number">SFH 4550</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TEFT4300" part="TEFT4300">
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TEFT4300</field>
+        <field name="Footprint">TEFT4300</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-310/86913.pdf</field>
+        <field name="Description">Vishay TEFT4300 60  Infrared Phototransistor, Through-hole 3mm Package</field>
+        <field name="Height">6.1</field>
+        <field name="Mouser Part Number">782-TEFT4300</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/TEFT4300?qs=HsFHTXumnCRbcrt8oPFPMA%3D%3D</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">TEFT4300</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS7A0318PYCHR" part="TPS7A0318PYCHR">
+      <footprints>
+        <fp>DSBGA_3PYCHR_TEX</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U3</field>
+        <field name="Value">3.3v to 1.8v</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="IN" type="power_in"/>
+        <pin num="A2" name="OUT" type="power_out"/>
+        <pin num="B1" name="EN" type="input"/>
+        <pin num="B2" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TPS7A0333PYCHR" part="TPS7A0333PYCHR">
+      <docs>https://www.ti.com/lit/gpn/tps7a03?HQS=ti-null-null-sf-df-pf-sep-wwe&amp;DCM=yes</docs>
+      <fields>
+        <field name="Reference">IC1</field>
+        <field name="Value">5v to 3.3v</field>
+        <field name="Footprint">TPS7A0333PYCHR:BGA4C35P2X2_64X64X40</field>
+        <field name="Datasheet">https://www.ti.com/lit/gpn/tps7a03?HQS=ti-null-null-sf-df-pf-sep-wwe&amp;DCM=yes</field>
+        <field name="Description">LDO Voltage Regulators 200-mA, nanopower-IQ (200 nA), low-dropout (LDO) voltage regulator with enable 4-DSBGA -40 to 125</field>
+        <field name="Height">0.4</field>
+        <field name="Mouser Part Number">595-TPS7A0333PYCHR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7A0333PYCHR?qs=DRkmTr78QASt%252BMCkG4QYQg%3D%3D</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS7A0333PYCHR</field>
+      </fields>
+      <pins>
+        <pin num="A1" name="IN" type="power_in"/>
+        <pin num="A2" name="OUT" type="power_out"/>
+        <pin num="B1" name="EN" type="input"/>
+        <pin num="B2" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="pspice" part="C">
+      <description>Capacitor symbol for simulation only</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/symbols//Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="ESE-20C343">
+      <uri>/home/drblackapple/Documents/Cours CS/Asso Robotique /MicromouseElectronics/lib/ESE-20C343.lib</uri>
+    </library>
+    <library logical="MAX20077ATCA-VY">
+      <uri>/home/drblackapple/Documents/Cours CS/Asso Robotique /MicromouseElectronics/lib/MAX20077ATCA-VY.lib</uri>
+    </library>
+    <library logical="MCU_ST_STM32L4+">
+      <uri>/usr/share/kicad/symbols//MCU_ST_STM32L4+.kicad_sym</uri>
+    </library>
+    <library logical="SFH_4550">
+      <uri>/home/drblackapple/Documents/Cours CS/Asso Robotique /MicromouseElectronics/lib/SFH_4550.lib</uri>
+    </library>
+    <library logical="TEFT4300">
+      <uri>/home/drblackapple/Documents/Cours CS/Asso Robotique /MicromouseElectronics/lib/TEFT4300.lib</uri>
+    </library>
+    <library logical="TPS7A0318PYCHR">
+      <uri>/home/drblackapple/Documents/Cours CS/Asso Robotique /MicromouseElectronics/lib/TPS7A0318PYCHR.lib</uri>
+    </library>
+    <library logical="TPS7A0333PYCHR">
+      <uri>/home/drblackapple/Documents/Cours CS/Asso Robotique /MicromouseElectronics/lib/TPS7A0333PYCHR.lib</uri>
+    </library>
+    <library logical="pspice">
+      <uri>/usr/share/kicad/symbols//pspice.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+1V8">
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="LED1" pin="2" pintype="passive"/>
+      <node ref="LED2" pin="2" pintype="passive"/>
+      <node ref="LED3" pin="2" pintype="passive"/>
+      <node ref="LED4" pin="2" pintype="passive"/>
+      <node ref="LED5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="A2" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="+3.3V">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="A2" pinfunction="OUT" pintype="power_out"/>
+      <node ref="Q3" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="Q6" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="U2" pin="A1" pinfunction="IN" pintype="power_in"/>
+      <node ref="U2" pin="B1" pinfunction="EN" pintype="input"/>
+      <node ref="U4" pin="4" pinfunction="VREF" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="VREF" pintype="power_in"/>
+    </net>
+    <net code="3" name="+3V3">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="U3" pin="A3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="A8" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="B6" pinfunction="VDDIO2" pintype="power_in"/>
+      <node ref="U3" pin="C1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="C13" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="E2" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U3" pin="F12" pinfunction="VDDIO2" pintype="power_in"/>
+      <node ref="U3" pin="G2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="H13" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="L2" pinfunction="VDDA" pintype="power_in"/>
+      <node ref="U3" pin="M13" pinfunction="VDDDSI" pintype="power_in"/>
+      <node ref="U3" pin="N11" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="N3" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="N7" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="4" name="+6V">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="IC1" pin="A1" pinfunction="IN" pintype="power_in"/>
+      <node ref="IC1" pin="B1" pinfunction="EN" pintype="input"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U4" pin="5" pinfunction="VM" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="VM" pintype="power_in"/>
+    </net>
+    <net code="5" name="+BATT">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="EN" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="SUP" pintype="power_in"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C42" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="IC1" pin="B2" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q9" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="S1" pin="B1" pinfunction="NO_1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="EPAD" pintype="power_in"/>
+      <node ref="U1" pin="6" pinfunction="PGND" pintype="power_in"/>
+      <node ref="U1" pin="7" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U2" pin="B2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="A7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="B3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="C12" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="C2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="F13" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="F2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="H12" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="H2" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="J13" pinfunction="VSSDSI" pintype="power_in"/>
+      <node ref="U3" pin="K13" pinfunction="VSSDSI" pintype="power_in"/>
+      <node ref="U3" pin="K2" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="U3" pin="M11" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="M3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U3" pin="M7" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U5" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="7" name="IR_PILOT">
+      <node ref="Q1" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="Q2" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="Q5" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="Q7" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="Q9" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="MOTOR1+">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U4" pin="8" pinfunction="OUT2" pintype="output"/>
+    </net>
+    <net code="9" name="MOTOR1-">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="OUT1" pintype="output"/>
+    </net>
+    <net code="10" name="MOTOR1_A">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="11" name="MOTOR1_B">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="12" name="MOTOR1_IN1">
+      <node ref="U4" pin="3" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="13" name="MOTOR1_IN2">
+      <node ref="U4" pin="2" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="14" name="MOTOR1_ISENSE">
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C42" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="U4" pin="7" pinfunction="ISEN" pintype="power_in"/>
+      <node ref="U5" pin="7" pinfunction="ISEN" pintype="power_in"/>
+    </net>
+    <net code="15" name="MOTOR2+">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U5" pin="8" pinfunction="OUT2" pintype="output"/>
+    </net>
+    <net code="16" name="MOTOR2-">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="OUT1" pintype="output"/>
+    </net>
+    <net code="17" name="MOTOR2_A">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="18" name="MOTOR2_B">
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="19" name="MOTOR2_IN1">
+      <node ref="U5" pin="3" pinfunction="IN1" pintype="input"/>
+    </net>
+    <net code="20" name="MOTOR2_IN2">
+      <node ref="U5" pin="2" pinfunction="IN2" pintype="input"/>
+    </net>
+    <net code="21" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="LX" pintype="output"/>
+    </net>
+    <net code="22" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="BST" pintype="output"/>
+    </net>
+    <net code="23" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="S1" pin="A1" pinfunction="COM_1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(J2-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(J3-Pad3)">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(LED1-Pad1)">
+      <node ref="LED1" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(LED2-Pad1)">
+      <node ref="LED2" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(LED3-Pad1)">
+      <node ref="LED3" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(LED4-Pad1)">
+      <node ref="LED4" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(LED5-Pad1)">
+      <node ref="LED5" pin="1" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(Q5-Pad1)">
+      <node ref="Q5" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(Q7-Pad1)">
+      <node ref="Q7" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(Q9-Pad1)">
+      <node ref="Q9" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="FB" pintype="output"/>
+    </net>
+    <net code="37" name="Net-(U1-Pad10)">
+      <node ref="U1" pin="10" pinfunction="BIAS" pintype="bidirectional"/>
+      <node ref="U1" pin="11" pinfunction="SYNC" pintype="input"/>
+      <node ref="U1" pin="12" pinfunction="PGOOD" pintype="output"/>
+    </net>
+    <net code="38" name="PHOTO_L">
+      <node ref="Q4" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="39" name="PHOTO_LS">
+      <node ref="Q3" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="40" name="PHOTO_R">
+      <node ref="Q6" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+    </net>
+    <net code="41" name="PHOTO_RS">
+      <node ref="Q8" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="unconnected-(S1-PadC1)">
+      <node ref="S1" pin="C1" pinfunction="COM_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(S1-PadD1)">
+      <node ref="S1" pin="D1" pinfunction="NO_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(U1-Pad1)">
+      <node ref="U1" pin="1" pinfunction="SPS" pintype="free+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U3-PadA1)">
+      <node ref="U3" pin="A1" pinfunction="PI10" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="unconnected-(U3-PadA2)">
+      <node ref="U3" pin="A2" pinfunction="PH2" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="unconnected-(U3-PadA4)">
+      <node ref="U3" pin="A4" pinfunction="PE0" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="unconnected-(U3-PadA5)">
+      <node ref="U3" pin="A5" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="unconnected-(U3-PadA6)">
+      <node ref="U3" pin="A6" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="unconnected-(U3-PadA9)">
+      <node ref="U3" pin="A9" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="unconnected-(U3-PadA10)">
+      <node ref="U3" pin="A10" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="unconnected-(U3-PadA11)">
+      <node ref="U3" pin="A11" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="unconnected-(U3-PadA12)">
+      <node ref="U3" pin="A12" pinfunction="PI0" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="unconnected-(U3-PadA13)">
+      <node ref="U3" pin="A13" pinfunction="PH14" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="unconnected-(U3-PadB1)">
+      <node ref="U3" pin="B1" pinfunction="PI9" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="unconnected-(U3-PadB2)">
+      <node ref="U3" pin="B2" pinfunction="PI7" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="unconnected-(U3-PadB4)">
+      <node ref="U3" pin="B4" pinfunction="PE1" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="unconnected-(U3-PadB5)">
+      <node ref="U3" pin="B5" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="unconnected-(U3-PadB7)">
+      <node ref="U3" pin="B7" pinfunction="PG9" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="unconnected-(U3-PadB8)">
+      <node ref="U3" pin="B8" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="unconnected-(U3-PadB9)">
+      <node ref="U3" pin="B9" pinfunction="PI6" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="unconnected-(U3-PadB10)">
+      <node ref="U3" pin="B10" pinfunction="PI2" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="unconnected-(U3-PadB11)">
+      <node ref="U3" pin="B11" pinfunction="PI1" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="unconnected-(U3-PadB12)">
+      <node ref="U3" pin="B12" pinfunction="PH15" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="unconnected-(U3-PadB13)">
+      <node ref="U3" pin="B13" pinfunction="PH12" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="unconnected-(U3-PadC3)">
+      <node ref="U3" pin="C3" pinfunction="PI11" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="unconnected-(U3-PadC4)">
+      <node ref="U3" pin="C4" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="unconnected-(U3-PadC5)">
+      <node ref="U3" pin="C5" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="unconnected-(U3-PadC6)">
+      <node ref="U3" pin="C6" pinfunction="PG15" pintype="bidirectional"/>
+    </net>
+    <net code="70" name="unconnected-(U3-PadC7)">
+      <node ref="U3" pin="C7" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="unconnected-(U3-PadC8)">
+      <node ref="U3" pin="C8" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="unconnected-(U3-PadC9)">
+      <node ref="U3" pin="C9" pinfunction="PH13" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="unconnected-(U3-PadC10)">
+      <node ref="U3" pin="C10" pinfunction="PI3" pintype="bidirectional"/>
+    </net>
+    <net code="74" name="unconnected-(U3-PadC11)">
+      <node ref="U3" pin="C11" pinfunction="PH9" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="unconnected-(U3-PadD1)">
+      <node ref="U3" pin="D1" pinfunction="PE4" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="unconnected-(U3-PadD2)">
+      <node ref="U3" pin="D2" pinfunction="PE3" pintype="bidirectional"/>
+    </net>
+    <net code="77" name="unconnected-(U3-PadD3)">
+      <node ref="U3" pin="D3" pinfunction="PE2" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="unconnected-(U3-PadD4)">
+      <node ref="U3" pin="D4" pinfunction="PB9" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="unconnected-(U3-PadD5)">
+      <node ref="U3" pin="D5" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="unconnected-(U3-PadD6)">
+      <node ref="U3" pin="D6" pinfunction="PG10" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="unconnected-(U3-PadD7)">
+      <node ref="U3" pin="D7" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="unconnected-(U3-PadD8)">
+      <node ref="U3" pin="D8" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="unconnected-(U3-PadD9)">
+      <node ref="U3" pin="D9" pinfunction="PC10" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="unconnected-(U3-PadD10)">
+      <node ref="U3" pin="D10" pinfunction="PI4" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="unconnected-(U3-PadD11)">
+      <node ref="U3" pin="D11" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="unconnected-(U3-PadD12)">
+      <node ref="U3" pin="D12" pinfunction="VDDUSB" pintype="power_in"/>
+    </net>
+    <net code="87" name="unconnected-(U3-PadD13)">
+      <node ref="U3" pin="D13" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="unconnected-(U3-PadE1)">
+      <node ref="U3" pin="E1" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="unconnected-(U3-PadE3)">
+      <node ref="U3" pin="E3" pinfunction="PE6" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="unconnected-(U3-PadE4)">
+      <node ref="U3" pin="E4" pinfunction="PE5" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="unconnected-(U3-PadE5)">
+      <node ref="U3" pin="E5" pinfunction="PH3" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="unconnected-(U3-PadE6)">
+      <node ref="U3" pin="E6" pinfunction="PG11" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="unconnected-(U3-PadE7)">
+      <node ref="U3" pin="E7" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="94" name="unconnected-(U3-PadE8)">
+      <node ref="U3" pin="E8" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="95" name="unconnected-(U3-PadE9)">
+      <node ref="U3" pin="E9" pinfunction="PC11" pintype="bidirectional"/>
+    </net>
+    <net code="96" name="unconnected-(U3-PadE10)">
+      <node ref="U3" pin="E10" pinfunction="PI5" pintype="bidirectional"/>
+    </net>
+    <net code="97" name="unconnected-(U3-PadE11)">
+      <node ref="U3" pin="E11" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="98" name="unconnected-(U3-PadE12)">
+      <node ref="U3" pin="E12" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="99" name="unconnected-(U3-PadE13)">
+      <node ref="U3" pin="E13" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="unconnected-(U3-PadF1)">
+      <node ref="U3" pin="F1" pinfunction="PC14" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="unconnected-(U3-PadF3)">
+      <node ref="U3" pin="F3" pinfunction="PF2" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="unconnected-(U3-PadF4)">
+      <node ref="U3" pin="F4" pinfunction="PF1" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="unconnected-(U3-PadF5)">
+      <node ref="U3" pin="F5" pinfunction="PF0" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="unconnected-(U3-PadF6)">
+      <node ref="U3" pin="F6" pinfunction="PG12" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="unconnected-(U3-PadF7)">
+      <node ref="U3" pin="F7" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="unconnected-(U3-PadF8)">
+      <node ref="U3" pin="F8" pinfunction="PC12" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="unconnected-(U3-PadF9)">
+      <node ref="U3" pin="F9" pinfunction="PC8" pintype="bidirectional"/>
+    </net>
+    <net code="108" name="unconnected-(U3-PadF10)">
+      <node ref="U3" pin="F10" pinfunction="PG8" pintype="bidirectional"/>
+    </net>
+    <net code="109" name="unconnected-(U3-PadF11)">
+      <node ref="U3" pin="F11" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="110" name="unconnected-(U3-PadG1)">
+      <node ref="U3" pin="G1" pinfunction="PC15" pintype="bidirectional"/>
+    </net>
+    <net code="111" name="unconnected-(U3-PadG3)">
+      <node ref="U3" pin="G3" pinfunction="PF3" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="unconnected-(U3-PadG4)">
+      <node ref="U3" pin="G4" pinfunction="PF4" pintype="bidirectional"/>
+    </net>
+    <net code="113" name="unconnected-(U3-PadG5)">
+      <node ref="U3" pin="G5" pinfunction="PF5" pintype="bidirectional"/>
+    </net>
+    <net code="114" name="unconnected-(U3-PadG6)">
+      <node ref="U3" pin="G6" pinfunction="PG13" pintype="bidirectional"/>
+    </net>
+    <net code="115" name="unconnected-(U3-PadG7)">
+      <node ref="U3" pin="G7" pinfunction="PG4" pintype="bidirectional"/>
+    </net>
+    <net code="116" name="unconnected-(U3-PadG8)">
+      <node ref="U3" pin="G8" pinfunction="PG3" pintype="bidirectional"/>
+    </net>
+    <net code="117" name="unconnected-(U3-PadG9)">
+      <node ref="U3" pin="G9" pinfunction="PG5" pintype="bidirectional"/>
+    </net>
+    <net code="118" name="unconnected-(U3-PadG10)">
+      <node ref="U3" pin="G10" pinfunction="PG7" pintype="bidirectional"/>
+    </net>
+    <net code="119" name="unconnected-(U3-PadG11)">
+      <node ref="U3" pin="G11" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="120" name="unconnected-(U3-PadG12)">
+      <node ref="U3" pin="G12" pinfunction="PG6" pintype="bidirectional"/>
+    </net>
+    <net code="121" name="unconnected-(U3-PadG13)">
+      <node ref="U3" pin="G13" pinfunction="PC9" pintype="bidirectional"/>
+    </net>
+    <net code="122" name="unconnected-(U3-PadH1)">
+      <node ref="U3" pin="H1" pinfunction="PH0" pintype="input"/>
+    </net>
+    <net code="123" name="unconnected-(U3-PadH3)">
+      <node ref="U3" pin="H3" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="124" name="unconnected-(U3-PadH4)">
+      <node ref="U3" pin="H4" pinfunction="PF10" pintype="bidirectional"/>
+    </net>
+    <net code="125" name="unconnected-(U3-PadH5)">
+      <node ref="U3" pin="H5" pinfunction="PG1" pintype="bidirectional"/>
+    </net>
+    <net code="126" name="unconnected-(U3-PadH6)">
+      <node ref="U3" pin="H6" pinfunction="PE10" pintype="bidirectional"/>
+    </net>
+    <net code="127" name="unconnected-(U3-PadH7)">
+      <node ref="U3" pin="H7" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="128" name="unconnected-(U3-PadH8)">
+      <node ref="U3" pin="H8" pinfunction="PD13" pintype="bidirectional"/>
+    </net>
+    <net code="129" name="unconnected-(U3-PadH9)">
+      <node ref="U3" pin="H9" pinfunction="PG2" pintype="bidirectional"/>
+    </net>
+    <net code="130" name="unconnected-(U3-PadH10)">
+      <node ref="U3" pin="H10" pinfunction="PD15" pintype="bidirectional"/>
+    </net>
+    <net code="131" name="unconnected-(U3-PadH11)">
+      <node ref="U3" pin="H11" pinfunction="PD14" pintype="bidirectional"/>
+    </net>
+    <net code="132" name="unconnected-(U3-PadJ1)">
+      <node ref="U3" pin="J1" pinfunction="PH1" pintype="input"/>
+    </net>
+    <net code="133" name="unconnected-(U3-PadJ2)">
+      <node ref="U3" pin="J2" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="134" name="unconnected-(U3-PadJ3)">
+      <node ref="U3" pin="J3" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="135" name="unconnected-(U3-PadJ4)">
+      <node ref="U3" pin="J4" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="136" name="unconnected-(U3-PadJ5)">
+      <node ref="U3" pin="J5" pinfunction="PG0" pintype="bidirectional"/>
+    </net>
+    <net code="137" name="unconnected-(U3-PadJ6)">
+      <node ref="U3" pin="J6" pinfunction="PE9" pintype="bidirectional"/>
+    </net>
+    <net code="138" name="unconnected-(U3-PadJ7)">
+      <node ref="U3" pin="J7" pinfunction="PE15" pintype="bidirectional"/>
+    </net>
+    <net code="139" name="unconnected-(U3-PadJ8)">
+      <node ref="U3" pin="J8" pinfunction="PD12" pintype="bidirectional"/>
+    </net>
+    <net code="140" name="unconnected-(U3-PadJ9)">
+      <node ref="U3" pin="J9" pinfunction="PD11" pintype="bidirectional"/>
+    </net>
+    <net code="141" name="unconnected-(U3-PadJ10)">
+      <node ref="U3" pin="J10" pinfunction="PD10" pintype="bidirectional"/>
+    </net>
+    <net code="142" name="unconnected-(U3-PadJ11)">
+      <node ref="U3" pin="J11" pinfunction="DSIHOST_D1P" pintype="bidirectional"/>
+    </net>
+    <net code="143" name="unconnected-(U3-PadJ12)">
+      <node ref="U3" pin="J12" pinfunction="DSIHOST_D1N" pintype="bidirectional"/>
+    </net>
+    <net code="144" name="unconnected-(U3-PadK1)">
+      <node ref="U3" pin="K1" pinfunction="PC3" pintype="bidirectional"/>
+    </net>
+    <net code="145" name="unconnected-(U3-PadK3)">
+      <node ref="U3" pin="K3" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="146" name="unconnected-(U3-PadK4)">
+      <node ref="U3" pin="K4" pinfunction="PC4" pintype="bidirectional"/>
+    </net>
+    <net code="147" name="unconnected-(U3-PadK5)">
+      <node ref="U3" pin="K5" pinfunction="PF15" pintype="bidirectional"/>
+    </net>
+    <net code="148" name="unconnected-(U3-PadK6)">
+      <node ref="U3" pin="K6" pinfunction="PE8" pintype="bidirectional"/>
+    </net>
+    <net code="149" name="unconnected-(U3-PadK7)">
+      <node ref="U3" pin="K7" pinfunction="PE14" pintype="bidirectional"/>
+    </net>
+    <net code="150" name="unconnected-(U3-PadK8)">
+      <node ref="U3" pin="K8" pinfunction="PH4" pintype="bidirectional"/>
+    </net>
+    <net code="151" name="unconnected-(U3-PadK9)">
+      <node ref="U3" pin="K9" pinfunction="PD9" pintype="bidirectional"/>
+    </net>
+    <net code="152" name="unconnected-(U3-PadK10)">
+      <node ref="U3" pin="K10" pinfunction="PD8" pintype="bidirectional"/>
+    </net>
+    <net code="153" name="unconnected-(U3-PadK11)">
+      <node ref="U3" pin="K11" pinfunction="DSIHOST_CKP" pintype="bidirectional"/>
+    </net>
+    <net code="154" name="unconnected-(U3-PadK12)">
+      <node ref="U3" pin="K12" pinfunction="DSIHOST_CKN" pintype="bidirectional"/>
+    </net>
+    <net code="155" name="unconnected-(U3-PadL1)">
+      <node ref="U3" pin="L1" pinfunction="VREF+" pintype="bidirectional"/>
+    </net>
+    <net code="156" name="unconnected-(U3-PadL3)">
+      <node ref="U3" pin="L3" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="157" name="unconnected-(U3-PadL4)">
+      <node ref="U3" pin="L4" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="158" name="unconnected-(U3-PadL5)">
+      <node ref="U3" pin="L5" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="159" name="unconnected-(U3-PadL6)">
+      <node ref="U3" pin="L6" pinfunction="PF14" pintype="bidirectional"/>
+    </net>
+    <net code="160" name="unconnected-(U3-PadL7)">
+      <node ref="U3" pin="L7" pinfunction="PE7" pintype="bidirectional"/>
+    </net>
+    <net code="161" name="unconnected-(U3-PadL8)">
+      <node ref="U3" pin="L8" pinfunction="PE13" pintype="bidirectional"/>
+    </net>
+    <net code="162" name="unconnected-(U3-PadL9)">
+      <node ref="U3" pin="L9" pinfunction="PH5" pintype="bidirectional"/>
+    </net>
+    <net code="163" name="unconnected-(U3-PadL10)">
+      <node ref="U3" pin="L10" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="164" name="unconnected-(U3-PadL11)">
+      <node ref="U3" pin="L11" pinfunction="DSIHOST_D0P" pintype="bidirectional"/>
+    </net>
+    <net code="165" name="unconnected-(U3-PadL12)">
+      <node ref="U3" pin="L12" pinfunction="DSIHOST_D0N" pintype="bidirectional"/>
+    </net>
+    <net code="166" name="unconnected-(U3-PadL13)">
+      <node ref="U3" pin="L13" pinfunction="VCAPDSI" pintype="power_in"/>
+    </net>
+    <net code="167" name="unconnected-(U3-PadM1)">
+      <node ref="U3" pin="M1" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="168" name="unconnected-(U3-PadM2)">
+      <node ref="U3" pin="M2" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="169" name="unconnected-(U3-PadM4)">
+      <node ref="U3" pin="M4" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="170" name="unconnected-(U3-PadM5)">
+      <node ref="U3" pin="M5" pinfunction="PF11" pintype="bidirectional"/>
+    </net>
+    <net code="171" name="unconnected-(U3-PadM6)">
+      <node ref="U3" pin="M6" pinfunction="PF13" pintype="bidirectional"/>
+    </net>
+    <net code="172" name="unconnected-(U3-PadM8)">
+      <node ref="U3" pin="M8" pinfunction="PE12" pintype="bidirectional"/>
+    </net>
+    <net code="173" name="unconnected-(U3-PadM9)">
+      <node ref="U3" pin="M9" pinfunction="PH10" pintype="bidirectional"/>
+    </net>
+    <net code="174" name="unconnected-(U3-PadM10)">
+      <node ref="U3" pin="M10" pinfunction="PH11" pintype="bidirectional"/>
+    </net>
+    <net code="175" name="unconnected-(U3-PadM12)">
+      <node ref="U3" pin="M12" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="176" name="unconnected-(U3-PadN1)">
+      <node ref="U3" pin="N1" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="177" name="unconnected-(U3-PadN2)">
+      <node ref="U3" pin="N2" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="178" name="unconnected-(U3-PadN4)">
+      <node ref="U3" pin="N4" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="179" name="unconnected-(U3-PadN5)">
+      <node ref="U3" pin="N5" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="180" name="unconnected-(U3-PadN6)">
+      <node ref="U3" pin="N6" pinfunction="PF12" pintype="bidirectional"/>
+    </net>
+    <net code="181" name="unconnected-(U3-PadN8)">
+      <node ref="U3" pin="N8" pinfunction="PE11" pintype="bidirectional"/>
+    </net>
+    <net code="182" name="unconnected-(U3-PadN9)">
+      <node ref="U3" pin="N9" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="183" name="unconnected-(U3-PadN10)">
+      <node ref="U3" pin="N10" pinfunction="PH8" pintype="bidirectional"/>
+    </net>
+    <net code="184" name="unconnected-(U3-PadN12)">
+      <node ref="U3" pin="N12" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="185" name="unconnected-(U3-PadN13)">
+      <node ref="U3" pin="N13" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="186" name="unconnected-(U4-Pad9)">
+      <node ref="U4" pin="9" pinfunction="EPAD" pintype="power_in+no_connect"/>
+    </net>
+    <net code="187" name="unconnected-(U5-Pad9)">
+      <node ref="U5" pin="9" pinfunction="EPAD" pintype="power_in+no_connect"/>
+    </net>
+  </nets>
+</export>
